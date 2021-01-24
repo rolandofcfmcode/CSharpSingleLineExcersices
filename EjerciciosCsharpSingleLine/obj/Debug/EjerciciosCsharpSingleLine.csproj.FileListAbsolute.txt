@@ -1,0 +1,7 @@
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\bin\Debug\EjerciciosCsharpSingleLine.exe.config
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\bin\Debug\EjerciciosCsharpSingleLine.exe
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\bin\Debug\EjerciciosCsharpSingleLine.pdb
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\obj\Debug\EjerciciosCsharpSingleLine.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\obj\Debug\EjerciciosCsharpSingleLine.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\obj\Debug\EjerciciosCsharpSingleLine.exe
+C:\Users\Rolando\source\repos\EjerciciosCsharpSingleLine\EjerciciosCsharpSingleLine\obj\Debug\EjerciciosCsharpSingleLine.pdb
